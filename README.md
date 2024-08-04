@@ -1,1 +1,1 @@
-Aplicació fet amb JDK 21.04
+Aplicació feta amb JDK 21.04
